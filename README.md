@@ -3,4 +3,6 @@
 
 WARNING: UNAUTHORISED ACCESS WILL RESULT IN TERMINATION
 
-Copyright Project-A 2024 ©
+Use this repo as our codebase, and upload our code here. Make sure that your code is compatible with everyone else's.
+
+Copyright SNTz55 2024 ©
